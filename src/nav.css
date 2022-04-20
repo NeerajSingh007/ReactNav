@@ -1,0 +1,27 @@
+.navbar{
+    width: 94%;
+    height: 90px;
+    background-color: black;
+     margin: auto;
+     margin-top: 20px;
+     display: flex;
+     justify-content: space-around;
+}
+*{
+    color: white;
+}
+.links{
+    display: flex;
+}
+.gap{
+    font-weight: 500;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.but{
+    font-size: 20px;
+    margin-top: 30px;
+    background-color: rgb(104, 104, 233);
+    border: none;
+    border-radius: 10px;
+}
